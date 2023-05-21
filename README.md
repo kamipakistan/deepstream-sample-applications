@@ -2,7 +2,7 @@
 ### The repo is under construction.
 <img src  = "Building.png">
 
-I will be uploading a modified application to this repository, which is based on the deepstream_python_apps repository provided by NVIDIA-AI-IOT. If you are interested in visiting the official repository for deepstream python apps, you can access it through the following link:
+I will be uploading a modified application to this repository mainly focuses YOLOv4 models, which is based on the deepstream_python_apps repository provided by NVIDIA-AI-IOT. If you are interested in visiting the official repository for deepstream python apps, you can access it through the following link:
 
 - [Official DeepStream Python Apps Repository](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps)
 
